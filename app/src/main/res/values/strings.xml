@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BB World : Spongebob Squarpants</string>
+    <string name="bbottom_name">Bbottom name</string>
+    <string name="description">Description</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name= "About_page">About</string>
+</resources>
